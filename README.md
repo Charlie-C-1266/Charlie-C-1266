@@ -3,12 +3,11 @@
 # Hi, I'm Charlie 👋
 
 <a href="https://www.testingcharlie.co.uk/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=22C55E&center=true&vCenter=true&width=600&lines=Senior+Test+Engineer;Playwright+%2B+CI+%2B+good+coverage;Building+small%2C+useful+public+tools;Homelab+tinkerer+(Proxmox+%2B+Terraform)" alt="Senior Test Engineer · Playwright + CI · Building small, useful public tools · Homelab tinkerer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1500&color=22C55E&center=true&vCenter=true&width=620&height=50&lines=Senior+Test+Engineer;I+break+things+so+you+don%27t+have+to;Playwright+%C2%B7+pytest+%C2%B7+CI+pipelines;Building+CanIAffordThat.co.uk;Running+my+homelab+as+code" alt="Senior Test Engineer · I break things so you don't have to · Playwright, pytest and CI pipelines · Building CanIAffordThat.co.uk · Running my homelab as code" />
 </a>
 
 <p>
   <a href="https://www.testingcharlie.co.uk/"><img src="https://img.shields.io/badge/Website-testingcharlie.co.uk-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://www.testingcharlie.co.uk/blog"><img src="https://img.shields.io/badge/Blog-~%2Fwriting-0EA5E9?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
   <a href="https://charlie-c-1266.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-view-8B5CF6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
 </p>
 

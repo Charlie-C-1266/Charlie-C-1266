@@ -3,7 +3,7 @@
 # Hi, I'm Charlie 👋
 
 <a href="https://www.testingcharlie.co.uk/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1500&color=22C55E&center=true&vCenter=true&width=620&height=50&lines=Senior+Test+Engineer;I+break+things+so+you+don%27t+have+to;Playwright+%C2%B7+pytest+%C2%B7+CI+pipelines;Building+CanIAffordThat.co.uk;Running+my+homelab+as+code" alt="Senior Test Engineer · I break things so you don't have to · Playwright, pytest and CI pipelines · Building CanIAffordThat.co.uk · Running my homelab as code" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=false&width=320&height=30&lines=Senior+Test+Engineer" alt="Senior Test Engineer" />
 </a>
 
 <p>

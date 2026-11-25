@@ -3,7 +3,7 @@
 # Hi, I'm Charlie 👋
 
 <a href="https://www.testingcharlie.co.uk/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=false&width=320&height=30&lines=Senior+Test+Engineer" alt="Senior Test Engineer" />
+  <img src="assets/header.svg" alt="Senior Test Engineer" width="440" />
 </a>
 
 <p>

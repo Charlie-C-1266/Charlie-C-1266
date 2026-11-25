@@ -71,23 +71,6 @@ Outside of that I build small public tools, mostly around UK personal finance, a
   </tr>
 </table>
 
-## ✍️ Latest writing
-
-<!-- BLOG-POST-LIST:START -->
-- [Why I'm building CanIAffordThat.co.uk](https://www.testingcharlie.co.uk/blog/why-i-built-caniaffordthat) — 14 Nov 2026
-- [Hello, world: how this blog works](https://www.testingcharlie.co.uk/blog/hello-world) — 17 Jul 2026
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [More on the blog](https://www.testingcharlie.co.uk/blog)
-
-## 🧰 Toolbox
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,py,html,css,playwright,githubactions,terraform,ansible,proxmox,docker,linux,vercel&perline=13" alt="TypeScript, Python, HTML, CSS, Playwright, GitHub Actions, Terraform, Ansible, Proxmox, Docker, Linux, Vercel" />
-  </a>
-</p>
-
 ## 📊 GitHub stats
 
 <div align="center">
@@ -105,16 +88,6 @@ Outside of that I build small public tools, mostly around UK personal finance, a
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Charlie-C-1266/Charlie-C-1266/output/github-contribution-grid-snake.svg" />
   <img alt="Snake animation eating the GitHub contribution grid" src="https://raw.githubusercontent.com/Charlie-C-1266/Charlie-C-1266/output/github-contribution-grid-snake.svg" />
 </picture>
-</details>
-
-<details>
-<summary>🔧 How this profile works</summary>
-<br />
-
-- The stats cards are generated daily by my [github-stats](https://github.com/Charlie-C-1266/github-stats) repo using GitHub Actions.
-- The snake is rebuilt every day by the [snake workflow](.github/workflows/snake.yml) in this repo and published to the `output` branch.
-- The *Latest writing* list sits between `BLOG-POST-LIST` markers, so it can be kept up to date automatically once the blog has an RSS feed.
-
 </details>
 
 ---

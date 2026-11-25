@@ -27,15 +27,14 @@ Outside of that I like building quality-of-life tooling for the home, and expand
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://caniaffordthat.co.uk">CanIAffordThat.co.uk</a></h3>
-      Free, UK-focused calculator that answers "can I actually afford this?" for cars, salaries and more — with the
-      <a href="https://caniaffordthat.co.uk/methodology/salary/">methodology</a> published in the open.
+      <h3><a href="https://github.com/Charlie-C-1266/Testing_Template">Testing_Template</a></h3>
+      A ready-to-clone Python test harness: dev container, uv, pytest + Playwright with a page-object layout, ruff + mypy, and CI already wired up.
       <br /><br />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/status-alpha-F59E0B" alt="Alpha" />
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white" alt="pytest" />
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white" alt="Playwright" />
       <br />
-      <a href="https://github.com/Charlie-C-1266/caniaffordthat">Source</a> ·
-      <a href="https://www.testingcharlie.co.uk/blog/why-i-built-caniaffordthat">Why I built it</a>
+      <a href="https://github.com/Charlie-C-1266/Testing_Template/blob/HEAD/docs/getting-started.md">Getting started</a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://www.testingcharlie.co.uk/">testingcharlie.co.uk</a></h3>

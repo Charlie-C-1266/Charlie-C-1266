@@ -71,15 +71,6 @@ Outside of that I build small public tools, mostly around UK personal finance, a
   </tr>
 </table>
 
-## ✍️ Latest writing
-
-<!-- BLOG-POST-LIST:START -->
-- [Why I'm building CanIAffordThat.co.uk](https://www.testingcharlie.co.uk/blog/why-i-built-caniaffordthat) — 14 Nov 2026
-- [Hello, world: how this blog works](https://www.testingcharlie.co.uk/blog/hello-world) — 17 Jul 2026
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [More on the blog](https://www.testingcharlie.co.uk/blog)
-
 ## 📊 GitHub stats
 
 <div align="center">

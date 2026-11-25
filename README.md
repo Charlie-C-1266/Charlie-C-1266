@@ -17,13 +17,10 @@
 
 ## 🧪 What I work on
 
-By day I'm a **Senior Test Engineer** — unit test coverage, Playwright end-to-end suites and CI checks that catch things before users do.
-Outside of that I build small public tools, mostly around UK personal finance, and keep a homelab running as code.
+By day I'm a **Senior Test Engineer** — I focus on improving testing through use of automation tools such as playwright, whilst optimising the development process of teams.
+Outside of that I like to build qol tooling for the home, and expanding my homelab infrastructure with 'just one more little project'.
 
-- 🔭 Currently building **[CanIAffordThat.co.uk](https://caniaffordthat.co.uk)** — a free, UK-focused affordability calculator (Alpha)
-- 💷 Hacking on **PiLedger**, a self-hosted personal finance dashboard, plus an MCP server so Claude can work with it
-- 🏠 Running a Proxmox homelab as infrastructure-as-code with Terraform and Ansible
-- ✍️ Writing about all of the above at **[testingcharlie.co.uk](https://www.testingcharlie.co.uk/blog)**
+- I've started trying to write up what I'm up to on my website, **[testingcharlie.co.uk](https://www.testingcharlie.co.uk/blog)**, though confess I'm not much of a wordsmith.
 
 ## 🚀 Featured projects
 
@@ -60,12 +57,12 @@ Outside of that I build small public tools, mostly around UK personal finance, a
       <img src="https://img.shields.io/badge/MCP-server-111827" alt="MCP" />
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Charlie-C-1266/Testing_Template">Testing_Template</a></h3>
-      A ready-to-clone Python test harness: dev container, uv, pytest + Playwright with a page-object layout, ruff + mypy, and CI already wired up.
+      <h3><a href="https://github.com/Autonomous-Resilient-Cyber-Defence/PrimAITE">PrimAITE</a></h3>
+      The ARCD Primary-level AI Training Environment: a configurable network simulation for training and evaluating AI agents in a cyber-defence role.
       <br /><br />
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white" alt="pytest" />
-      <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white" alt="Playwright" />
+      <img src="https://img.shields.io/badge/Reinforcement_learning-FF6F00" alt="Reinforcement learning" />
+      <img src="https://img.shields.io/badge/Cyber_defence-111827" alt="Cyber defence" />
     </td>
   </tr>
 </table>

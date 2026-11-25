@@ -17,8 +17,8 @@
 
 ## 🧪 What I work on
 
-By day I'm a **Senior Test Engineer** — I focus on improving testing through use of automation tools such as playwright, whilst optimising the development process of teams.
-Outside of that I like to build qol tooling for the home, and expanding my homelab infrastructure with 'just one more little project'.
+By day I'm a **Senior Test Engineer** — I focus on improving testing through use of automation tools such as Playwright, whilst optimising the development process of teams.
+Outside of that I like building quality-of-life tooling for the home, and expanding my homelab infrastructure with 'just one more little project'.
 
 - I've started trying to write up what I'm up to on my website, **[testingcharlie.co.uk](https://www.testingcharlie.co.uk/blog)**, though confess I'm not much of a wordsmith.
 
